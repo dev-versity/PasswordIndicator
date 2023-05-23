@@ -36,5 +36,8 @@ button {
   bottom: -40px;
   color: #fff;
   font-size: 15px;
-  
+  display: none;  
+}
+::placeholder{
+  font-size: 15px;
 }
